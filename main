@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Online hospital</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<div id="div1">Account info</div>
+<div id="div2">Logo and banner</div>
+<div id="div3">Navigation bar section</div>
+<div id="div4">Search and filter</div>
+<div id="div5"><div id="div51">More Filter section</div> <div id="div52">Hospitals list section</div></div>
+<div id="footer">Footer section</div>
+</body>
+</html>
